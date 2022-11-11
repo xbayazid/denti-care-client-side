@@ -1,0 +1,21 @@
+.banner-bg{
+    background-color: #1EC5BD;
+    /* border-bottom-right-radius: 30%; */
+    margin-top: -50px;
+}
+
+.banner-title{
+    font-family: 'Playfair Display', serif;
+}
+
+.banner-btn{
+    border: 0;
+    padding: 15px 20px;
+    background-image: linear-gradient(lightpink, skyblue);
+    border: 2px solid skyblue;
+}
+
+.banner-btn:hover{
+    border: 2px solid black;
+    background-image: none;
+}

@@ -1,0 +1,23 @@
+.rewards-details{
+    padding-left: 10%;
+    padding-top: 40px;
+    margin: auto;
+}
+
+.reward-title-one{
+    font-family: 'Playfair Display', serif;
+}
+
+.reward-title-two{
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    color: #fdabb7;
+    font-size: 3.5rem;
+}
+
+.rewards-btn{
+    border: 0;
+    padding: 15px 20px;
+    background-color: #fdabb7;
+    color: white;
+}

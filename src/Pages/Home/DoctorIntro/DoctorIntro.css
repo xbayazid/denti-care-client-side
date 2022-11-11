@@ -1,0 +1,18 @@
+.doctor-banner{
+    background-color: #FDABB7;
+    border-top-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+}
+
+.doctor-title{
+    font-family: 'Playfair Display', serif;
+}
+
+.title-font{
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+.fonts{
+    font-family: 'Playfair Display', serif;
+}
