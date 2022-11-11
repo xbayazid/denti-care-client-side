@@ -3,4 +3,4 @@
 **[Live Site](https://denti-care-f9f95.web.app)** 
 
 **Home**
-![](images/Home.png)
+![](images/home.png)
