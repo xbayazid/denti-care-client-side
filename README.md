@@ -4,3 +4,15 @@
 
 **Home**
 ![](images/home.png)
+
+**Services**
+![](images/services.png)
+
+**Blog**
+![](images/blogs.png)
+
+**Sign In**
+![](images/signIn.png)
+
+**Sign Up**
+![](images/signUp.png)
