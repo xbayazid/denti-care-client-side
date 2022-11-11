@@ -8,6 +8,15 @@
 **Services**
 ![](images/services.png)
 
+**Service Details**
+![](images/seviceDetails.png)
+
+**Add Review**
+![](images/addReview.png)
+
+**Add Services**
+![](images/addServices.png)
+
 **Blog**
 ![](images/blogs.png)
 
