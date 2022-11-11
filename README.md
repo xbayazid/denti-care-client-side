@@ -15,7 +15,7 @@
 ![](images/addReview.png)
 
 **Add Services**
-![](images/addServices.png)
+![](images/addService.png)
 
 **Blog**
 ![](images/blogs.png)
