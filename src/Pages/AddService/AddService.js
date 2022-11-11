@@ -72,9 +72,9 @@ const AddService = () => {
       <Form.Group className="mb-3" controlId="formBasicEmail">
         <Form.Control as="textarea" style={{ height: '80px' }} name="details" type="text" placeholder="Service Description" />
       </Form.Group>
-      <div>
+      {/* <div>
         <input name="importImg" type="file" />
-      </div>
+      </div> */}
       <button
                 style={{ backgroundColor: "black", padding: "10px 20px" }}
                 className="border-0 text-white rounded"
